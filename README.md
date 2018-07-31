@@ -1,8 +1,11 @@
 # CANnotUSB
 https://easyeda.com/Piroro/CAN-not-USB
 
+<img src="./image/top.png" style="float: left; width: 50%;">
+<img src="./image/bottom.png" style="float: right; width: 50%;">
+
 ## 回路図
-![](./schematic.svg)
+![](./image/schematic.svg)
 電源部分は大体[これ](https://github.com/KeioRoboticsAssociation/Power_Supply)と同じ
 
 
