@@ -1,8 +1,8 @@
 # CANnotUSB
 https://easyeda.com/Piroro/CAN-not-USB
 
-<img src="./image/top.png" style="float: left; width: 50%;">
-<img src="./image/bottom.png" style="float: right; width: 50%;">
+<img src="./image/top.png" width="256">
+<img src="./image/bottom.png" width="256">
 
 ## 回路図
 ![](./image/schematic.svg)
